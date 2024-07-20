@@ -43,37 +43,3 @@ src/
 
 Run the application:
 `cargo run`
-
-
-## Usage/Examples
-
-```bash
-Please Choose an Option
-
-1. Celsius to Fahrenheit
-2. Celsius to Kelvin
-3. Fahrenheit to Celsius
-4. Fahrenheit to Kelvin
-5. Kelvin to Celsius
-6. Kelvin to Fahrenheit
-7. Exit
-
-Enter your choice: 
-1
-Enter the temperature value: 
-37
-98.60°F
-
-Please Choose an Option
-
-1. Celsius to Fahrenheit
-2. Celsius to Kelvin
-3. Fahrenheit to Celsius
-4. Fahrenheit to Kelvin
-5. Kelvin to Celsius
-6. Kelvin to Fahrenheit
-7. Exit
-
-Enter your choice: 
-
-```
